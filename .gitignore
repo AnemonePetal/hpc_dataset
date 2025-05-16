@@ -11,7 +11,7 @@ data
 cache
 paper_result/
 *.txt
-*.png
+# *.png
 plot.py
 plot_full.py
 .vscode/
