@@ -1,4 +1,5 @@
 data
 rawdata
 .trash/
+.local/
 __pycache__/
