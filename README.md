@@ -116,7 +116,12 @@ The `olcf_mini` dataset (221 GB) is hosted on [Hugging Face](https://huggingface
 
 ## Snippet
 
-![](docs/overview.png)
+<!-- ![](docs/overview.png) -->
+<div align="center">
+  <img src="docs/overview.png" alt="overview" width="800">
+</div>
+
+
 
 We provide an example views from ClusterWise dataset: (a) Cluster-level average power and CPU temperature over 24 hours. (b) Node-level power, temperature, and job allocation at a single time snapshot.
 
