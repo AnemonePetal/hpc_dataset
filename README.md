@@ -118,7 +118,7 @@ The `olcf_mini` dataset (221 GB) is hosted on [Hugging Face](https://huggingface
 
 <!-- ![](docs/overview.png) -->
 <div align="center">
-  <img src="docs/overview.png" alt="overview" width="800">
+  <img src="https://github.com/AnemonePetal/hpc_dataset/blob/master/docs/overview.png?raw=true" width="800">
 </div>
 
 
